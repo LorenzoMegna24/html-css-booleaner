@@ -12,18 +12,25 @@
  main, footer{
   margin: 5px;
  }
+ section{
+  padding-bottom: 20px;
+}
 h1{
   font-size: 40px;
+}
+#info{
+  color: gray;
 }
 #author{
   color: lightblue;
 }
 #data{
+  color: gray;
   font-size: 10px;
   margin-bottom: 20px;
 }
-section{
-  padding-bottom: 20px;
+#photo-description{
+  font-size: 10px;
 }
 li{
   margin-left: 1em;
