@@ -9,3 +9,16 @@
   background-color: lightblue;
   padding-top: 32px;
  }
+ main{
+  margin: 5px;
+ }
+h1{
+  font-size: 40px;
+}
+#author{
+  color: lightblue;
+}
+#data{
+  font-size: 10px;
+  margin-bottom: 20px;
+}
