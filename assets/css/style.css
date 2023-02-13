@@ -9,7 +9,7 @@
   background-color: lightblue;
   padding-top: 32px;
  }
- main{
+ main, footer{
   margin: 5px;
  }
 h1{
@@ -37,4 +37,33 @@ thead{
 }
 #t-odd{
   background-color: aquamarine;
+}
+#altri-articoli{
+  color: gray;
+  font-size: 13px;
+}
+#monitor{
+  background-image: url(../img/monitor.jpg);
+  background-repeat: no-repeat;
+  min-height: 100px;
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: contain;
+  color: white;
+  margin-bottom: 10px;
+  padding-left: 7px;
+  padding-top: 7px;
+  font-size: 15px;
+  }
+#graphic{
+  background-image: url(../img/graph.jpg);
+  background-repeat: no-repeat;
+  min-height: 100px;
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: contain;
+  color: white;
+  padding-left: 7px;
+  padding-top: 7px;
+  font-size: 15px;
 }
