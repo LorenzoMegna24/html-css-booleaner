@@ -28,3 +28,13 @@ section{
 li{
   margin-left: 1em;
 }
+thead{
+  background-color: aqua;
+  color: white;
+}
+#t-right{
+  width: 50%;
+}
+#t-odd{
+  background-color: aquamarine;
+}
