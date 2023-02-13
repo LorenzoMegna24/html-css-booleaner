@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+#banner{
+  background-image: url(../img/pattern.png);
+  background-size: 30%;
+  background-color: lightblue;
+  padding-top: 32px;
+ }
