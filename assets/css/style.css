@@ -3,19 +3,25 @@
   padding: 0;
   box-sizing: border-box;
  }
- body{
+li{
+  margin-left: 1em;
+}
+table{
+  border-spacing: 0;
+}
+body{
   font-family: 'Roboto', sans-serif;
- }
+}
 #banner{
   background-image: url(../img/pattern.png);
   background-size: 30%;
   background-color: lightblue;
   padding-top: 32px;
- }
- main, footer{
+}
+main, footer{
   margin: 5px;
- }
- section{
+}
+section{
   padding-bottom: 20px;
 }
 h1{
@@ -34,9 +40,6 @@ h1{
 }
 #photo-description{
   font-size: 10px;
-}
-li{
-  margin-left: 1em;
 }
 thead{
   background-color: aqua;
@@ -64,7 +67,7 @@ thead{
   padding-left: 7px;
   padding-top: 7px;
   font-size: 15px;
-  }
+}
 #graphic{
   background-image: url(../img/graph.jpg);
   background-repeat: no-repeat;
